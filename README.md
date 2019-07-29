@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## $ whoami
 
-You can use the [editor on GitHub](https://github.com/diracdeltas/azuki.vip/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+hacker / dj / producer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+i like pyramids. please, have a pyramid:
 
-### Markdown
+```
+                .,aadd"'    `"bbaa,.
+            ,ad8888P'          `Y8888ba,
+         ,a88888888              88888888a,
+       a88888888888              88888888888a
+     a8888888888888b,          ,d8888888888888a
+    d8888888888888888b,_    _,d8888888888888888b
+   d88888888888888888888888888888888888888888888b
+  d8888888888888888888888888888888888888888888888b
+ I888888888888888888888888888888888888888888888888I
+,88888888888888888888888888888888888888888888888888,
+I8888888888888888PY8888888PY88888888888888888888888I
+8888888888888888"  "88888"  "88888888888888888888888
+8::::::::::::::'    `:::'    `:::::::::::::::::::::8
+Ib:::::::::::"        "        `::::::' `:::::::::dI
+`8888888888P            Y88888888888P     Y88888888'
+ Ib:::::::'              `:::::::::'       `:::::dI
+  Yb::::"                  ":::::"           "::dP
+   Y88P                      Y8P               `P
+    Y'                        "
+                                `:::::::::::;8"
+       "888888888888888888888888888888888888"
+         `"8;::::::::::::::::::::::::::;8"'
+            `"Ya;::::::::::::::::::;aP"'
+                ``""YYbbaaaaddPP""''
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## $ ls
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diracdeltas/azuki.vip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [music](https://soundcloud.com/azuki)
+* [rarely-updated blog](https://diracdeltas.github.io/blog)
+* [a tool for auto generating festival lineups](https://diracdeltas.github.io/festival)
+* [single TCP-packet audio/visual experience (WARNING: IT LOUD)](http://packet.city)
+* [rarely-updated blog](https://diracdeltas.github.io/blog)
+* [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
+* [backdooring javascript](https://diracdeltas.github.io/blog/backdooring-js/)
+* [a bot that mashes up erowid and ICO whitepapers](https://twitter.com/icowid)
+* [readable passphrase/key generator](https://diracdeltas.github.io/niceware/)
+* [tweet tweet](https://twitter.com/bcrypt)
+* [insta](https://instagram.com/azukipix)
