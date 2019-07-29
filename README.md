@@ -16,6 +16,6 @@ hacker / dj / producer / artist / ex-physicist
 * [a bot that mashes up erowid and ICO whitepapers](https://twitter.com/icowid)
 * [readable passphrase/key generator](https://diracdeltas.github.io/niceware/)
 * [estimating the mass of unread email in my inbox](http://web.mit.edu/zyan/Public/fermi.pdf) [pdf]
+* [are constants constant?](http://web.mit.edu/zyan/Public/constants.pdf) [pdf]
 * [insta](https://instagram.com/azukipix)
 * [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
-* [github](https://github.com/diracdeltas)
