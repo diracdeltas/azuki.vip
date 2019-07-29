@@ -6,9 +6,9 @@ hacker / dj / producer / artist / ex-physicist
 
 ## $ ls
 
-* [music](https://soundcloud.com/azuki)
+* [music/shows](https://soundcloud.com/azuki)
 * [tweetings](https://twitter.com/bcrypt)
-* [rarely-updated blog](https://diracdeltas.github.io/blog)
+* [rarely-updated blog/talks](https://diracdeltas.github.io/blog)
 * [a tool for auto generating festival lineups](https://diracdeltas.github.io/festival)
 * [single TCP-packet audio/visual experience](http://packet.city) [warning: loud]
 * [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
@@ -19,3 +19,4 @@ hacker / dj / producer / artist / ex-physicist
 * [are constants constant?](http://web.mit.edu/zyan/Public/constants.pdf) [pdf]
 * [insta](https://instagram.com/azukipix)
 * [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
+* [github](https://github.com/diracdeltas)
