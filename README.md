@@ -1,6 +1,6 @@
 ## $ whoami
 
-hacker / dj / producer / artist
+hacker / dj / producer / artist / ex-physicist
 
 <img src='https://user-images.githubusercontent.com/549654/62085872-7d6d1600-b211-11e9-82fb-8f202a1fa702.jpg' alt='azuki' width='200'>
 
