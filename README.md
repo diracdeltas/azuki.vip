@@ -9,7 +9,7 @@ hacker / dj / producer / artist
 * [music](https://soundcloud.com/azuki)
 * [rarely-updated blog](https://diracdeltas.github.io/blog)
 * [a tool for auto generating festival lineups](https://diracdeltas.github.io/festival)
-* [single TCP-packet audio/visual experience (WARNING: IT LOUD)](http://packet.city)
+* [single TCP-packet audio/visual experience](http://packet.city) [warning: loud]
 * [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
 * [backdooring javascript](https://diracdeltas.github.io/blog/backdooring-js/)
 * [a bot that mashes up erowid and ICO whitepapers](https://twitter.com/icowid)
