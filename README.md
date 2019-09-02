@@ -20,3 +20,4 @@ hacker / dj / producer / artist / ex-physicist
 * [insta](https://instagram.com/azukipix)
 * [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
 * [github](https://github.com/diracdeltas)
+* [youtube](https://youtube.com/yanxz)
