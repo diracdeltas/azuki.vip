@@ -22,7 +22,7 @@ hacker / dj / producer / artist / ex-physicist
 * [github](https://github.com/diracdeltas)
 * [youtube](https://youtube.com/yanxz)
 
-## $ curl https://www.songkick.com/artists/1438922
+## $ curl $TOUR\_DATES\_URL
 
 <a href="https://www.songkick.com/artists/1438922" class="songkick-widget"
 data-theme="dark" data-track-button="on" data-detect-style="true"
