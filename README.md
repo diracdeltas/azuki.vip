@@ -6,7 +6,7 @@ hacker / dj / producer / artist / ex-physicist
 
 ## $ ls
 
-* [music/shows](https://soundcloud.com/azuki)
+* [music](https://soundcloud.com/azuki)
 * [tweetings](https://twitter.com/bcrypt)
 * [rarely-updated blog/talks](https://diracdeltas.github.io/blog)
 * [a tool for auto generating festival lineups](https://diracdeltas.github.io/festival)
@@ -21,3 +21,10 @@ hacker / dj / producer / artist / ex-physicist
 * [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
 * [github](https://github.com/diracdeltas)
 * [youtube](https://youtube.com/yanxz)
+
+## $ curl https://www.songkick.com/artists/1438922
+
+<a href="https://www.songkick.com/artists/1438922" class="songkick-widget"
+data-theme="dark" data-track-button="on" data-detect-style="true"
+data-background-color="transparent" data-locale="en">azuki tour dates</a>
+<script src="https://widget.songkick.com/1438922/widget.js"></script>
