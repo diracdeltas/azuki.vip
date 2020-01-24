@@ -10,13 +10,17 @@ hacker / dj / producer / artist / ex-physicist
 * [tweetings](https://twitter.com/bcrypt)
 * [rarely-updated blog/talks](https://diracdeltas.github.io/blog)
 * [a tool for auto generating festival lineups](https://diracdeltas.github.io/festival)
-* [single TCP-packet audio/visual experience](http://packet.city) [warning: loud]
+* [max for live device for stemming any
+  audio](https://github.com/diracdeltas/spleeter4max)
 * [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
+* [APC40MKII control surface script for doing CDJ-style
+  looping](https://github.com/diracdeltas/apc40mk2)
+* [single TCP-packet audio/visual experience](http://packet.city)
 * [backdooring javascript](https://diracdeltas.github.io/blog/backdooring-js/)
 * [a bot that mashes up erowid and ICO whitepapers](https://twitter.com/icowid)
 * [readable passphrase/key generator](https://diracdeltas.github.io/niceware/)
 * [estimating the mass of unread email in my inbox](http://web.mit.edu/zyan/Public/fermi.pdf) [pdf]
-* [are constants constant?](http://web.mit.edu/zyan/Public/constants.pdf) [pdf]
+* [CVE-2016-1617](https://github.com/diracdeltas/sniffly/tree/master)
 * [insta](https://instagram.com/azukipix)
 * [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
 * [github](https://github.com/diracdeltas)
