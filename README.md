@@ -8,8 +8,7 @@ hacker / dj / producer / artist / ex-physicist
 
 * [music](https://soundcloud.com/azuki)
 * [tweetings](https://twitter.com/bcrypt)
-* [rarely-updated blog/talks](https://diracdeltas.github.io/blog)
-* [a tool for auto generating festival lineups](https://diracdeltas.github.io/festival)
+* [rarely-updated blog](https://diracdeltas.github.io/blog)
 * [max for live device for stemming any
   audio](https://github.com/diracdeltas/spleeter4max)
 * [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
