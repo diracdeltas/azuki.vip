@@ -11,6 +11,7 @@ hacker / dj / producer / artist / ex-physicist
 * [rarely-updated blog](https://diracdeltas.github.io/blog)
 * [max for live device for stemming any
   audio](https://github.com/diracdeltas/spleeter4max)
+* [random workout generator](https://random.training)
 * [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
 * [APC40MKII control surface script for doing CDJ-style
   looping](https://github.com/diracdeltas/apc40mk2)
