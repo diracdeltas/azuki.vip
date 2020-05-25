@@ -8,10 +8,12 @@ hacker / dj / producer / artist / ex-physicist
 
 * [music](https://soundcloud.com/azuki)
 * [tweetings](https://twitter.com/bcrypt)
-* [rarely-updated blog](https://diracdeltas.github.io/blog)
 * [max for live device for stemming any
-  audio](https://github.com/diracdeltas/spleeter4max)
+  audio](https://azuki.bandcamp.com/merch/max-for-live-stem-splitter-spleeter)
+* [macOS/win64 vst3 for stemming audio in real
+  time](https://azuki.bandcamp.com/merch/experimental-spleeter-plugin-for-live-stem-separation)
 * [random workout generator](https://random.training)
+* [rarely-updated blog](https://diracdeltas.github.io/blog)
 * [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
 * [APC40MKII control surface script for doing CDJ-style
   looping](https://github.com/diracdeltas/apc40mk2)
