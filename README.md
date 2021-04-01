@@ -27,10 +27,3 @@ hacker / dj / producer / artist / ex-physicist
 * [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
 * [github](https://github.com/diracdeltas)
 * [youtube](https://youtube.com/yanxz)
-
-## $ curl $TOUR\_DATES\_URL
-
-<a href="https://www.songkick.com/artists/1438922" class="songkick-widget"
-data-theme="dark" data-track-button="on" data-detect-style="true"
-data-background-color="transparent" data-locale="en">azuki tour dates</a>
-<script src="https://widget.songkick.com/1438922/widget.js"></script>
