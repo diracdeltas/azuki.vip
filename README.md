@@ -1,3 +1,10 @@
+## help Tor users circumvent censorship
+
+<iframe src="https://snowflake.torproject.org/embed.html" width="320"
+height="240" frameborder="0" scrolling="no"></iframe>
+
+[more info](https://snowflake.torproject.org/)
+
 ## $ whoami
 
 hacker / dj / producer / artist / ex-physicist
