@@ -7,7 +7,7 @@ height="240" frameborder="0" scrolling="no"></iframe>
 
 ## $ whoami
 
-hacker / dj / producer / artist / ex-physicist
+hacker / ex-physicist
 
 <img src='https://user-images.githubusercontent.com/549654/62085872-7d6d1600-b211-11e9-82fb-8f202a1fa702.jpg' alt='azuki' width='200'>
 
@@ -33,4 +33,4 @@ hacker / dj / producer / artist / ex-physicist
 * [insta](https://instagram.com/azukipix)
 * [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
 * [github](https://github.com/diracdeltas)
-* [youtube](https://youtube.com/yanxz)
+* [youtube](https://www.youtube.com/@bcrypt)
