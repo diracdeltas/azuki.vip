@@ -34,4 +34,4 @@ hacker / ex-physicist
 * [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
 * [github](https://github.com/diracdeltas)
 * [youtube](https://www.youtube.com/@bcrypt)
-* <a rel="me" href="https://mastodon.social/@bcrypt">Mastodon</a>
+* <a rel="me" href="https://infosec.exchange/@bcrypt">Mastodon</a>
