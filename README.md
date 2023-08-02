@@ -21,6 +21,7 @@ hacker / ex-physicist
   time](https://azuki.bandcamp.com/merch/experimental-spleeter-plugin-for-live-stem-separation)
 * [random workout generator](https://random.training)
 * [rarely-updated blog](https://diracdeltas.github.io/blog)
+* [haiku bot in memory of peter eckersley](https://haiku.chat/)
 * [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
 * [APC40MKII control surface script for doing CDJ-style
   looping](https://github.com/diracdeltas/apc40mk2)
