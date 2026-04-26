@@ -20,8 +20,8 @@ hacker / ex-physicist
 * [macOS/win64 vst3 for stemming audio in real
   time](https://azuki.bandcamp.com/merch/experimental-spleeter-plugin-for-live-stem-separation)
 * [random workout generator](https://diracdeltas.github.io/random-training/)
+* [baby restaurant reviews](https://diracdeltas.github.io/blw/)
 * [rarely-updated blog](https://diracdeltas.github.io/blog)
-* [haiku bot in memory of peter eckersley](https://haiku-pde.vercel.app)
 * [rekordbox scripts](https://github.com/diracdeltas/rekordbox-scripts)
 * [APC40MKII control surface script for doing CDJ-style
   looping](https://github.com/diracdeltas/apc40mk2)
